@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment_MovieDatabase.Maui", "Assignment_MovieDatabase.Maui\Assignment_MovieDatabase.Maui.csproj", "{888EDA9B-86AF-4996-ADA0-AD7FA8A281EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment_MovieDatabase.Api", "Assignment_MovieDatabase.Api\Assignment_MovieDatabase.Api.csproj", "{1C6FD408-0B7C-4880-812D-9001C74C45C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{888EDA9B-86AF-4996-ADA0-AD7FA8A281EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{888EDA9B-86AF-4996-ADA0-AD7FA8A281EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{888EDA9B-86AF-4996-ADA0-AD7FA8A281EA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{888EDA9B-86AF-4996-ADA0-AD7FA8A281EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{888EDA9B-86AF-4996-ADA0-AD7FA8A281EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{888EDA9B-86AF-4996-ADA0-AD7FA8A281EA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{1C6FD408-0B7C-4880-812D-9001C74C45C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C6FD408-0B7C-4880-812D-9001C74C45C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C6FD408-0B7C-4880-812D-9001C74C45C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C6FD408-0B7C-4880-812D-9001C74C45C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAA30AE0-3AEB-4D21-B065-40D020A8C8D3}
+	EndGlobalSection
+EndGlobal
